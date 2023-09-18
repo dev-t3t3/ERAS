@@ -96,6 +96,8 @@ this to your victims.😈
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1135815161773559839/1151584523948142612/Screenshot_1445-02-28_at_9.25.37_PM.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1137203203197370451/1153309188244647936/Screenshot_1445-03-03_at_3.38.55_PM.png"></img>
+
 </div>
 
 ### Star Graph
